@@ -1,6 +1,5 @@
 
 cisla=[1,3,6,4,5,2,8,9,7]
-x=0
 
 def bubble_sort(val):
     change=True
